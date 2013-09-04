@@ -36,6 +36,6 @@ end
 
 ######### Driver Code ###########
 add(2,3) == 5
-# subtract(6,3) == 3
-# multiply(50, 2) == 100
-# divide(100, 4) == 25
+subtract(6,3) == 3
+multiply(50, 2) == 100
+divide(100, 4) == 25
